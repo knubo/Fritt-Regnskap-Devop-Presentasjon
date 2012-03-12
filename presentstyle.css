@@ -1,0 +1,126 @@
+
+.slide {
+    margin-top:-50px;
+    font-size: 40px;
+    line-height: 110%;
+    color: #0066CC;
+}
+
+.main {
+    min-height: 800px;
+}
+
+.front-title {
+    font-family: 'Prosto One', cursive;
+    width:800px;
+}
+
+#price {
+    width:600px;
+    margin-left: 50px;
+}
+
+#price table {
+    color:black;
+    font-size: 30px;    
+    margin-left:120px;
+}
+
+#price td {
+    padding-right:10px;
+}
+
+#price tr+tr {
+    border-bottom: 2px;
+
+}
+
+#krav {
+    width:800px;
+}
+
+#admin {
+    width:800px;
+}
+
+#demo {
+    margin-top:auto;
+}
+
+.center {
+    text-align: center;    
+}
+
+.content li {
+    list-style: none;
+}
+
+.tid {
+    -webkit-transform: rotate(-15deg);
+    -moz-transform:    rotate(-15deg);
+    -ms-transform:     rotate(-15deg);
+    -o-transform:      rotate(-15deg);
+    transform:         rotate(-15deg);
+    position: relative;
+    top:-80px;
+    left:-15px;
+}
+
+.program {
+    -webkit-transform: rotate(-8deg);
+    -moz-transform:    rotate(-8deg);
+    -ms-transform:     rotate(-8deg);
+    -o-transform:      rotate(-8deg);
+    transform:         rotate(-8deg);
+    position: relative;
+    top:-40px;
+    left:-0px;   
+}
+
+.brukere {
+    position: relative;
+    top:30px;
+    left:5px;   
+}
+
+.online {
+    position: relative;
+    top:0px;
+    left:750px;   
+    
+}
+
+.test {
+    -webkit-transform: rotate(5deg);
+    -moz-transform:    rotate(5deg);
+    -ms-transform:     rotate(5deg);
+    -o-transform:      rotate(5deg);
+    transform:         rotate(5deg);
+    position: relative;
+    top:30px;
+    left:0px;   
+    
+}
+
+.feilsok {
+    -webkit-transform: rotate(10deg);
+    -moz-transform:    rotate(10deg);
+    -ms-transform:     rotate(10deg);
+    -o-transform:      rotate(10deg);
+    transform:         rotate(10deg);
+    position: relative;
+    top:51px;
+    left:-9px;   
+
+}
+.deploy {
+    -webkit-transform: rotate(15deg);
+    -moz-transform:    rotate(15deg);
+    -ms-transform:     rotate(15deg);
+    -o-transform:      rotate(15deg);
+    transform:         rotate(15deg);
+    position: relative;
+    top:72px;
+    left:-22px;   
+    
+}

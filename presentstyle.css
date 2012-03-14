@@ -62,19 +62,19 @@
     -o-transform:      rotate(-15deg);
     transform:         rotate(-15deg);
     position: relative;
-    top:-80px;
-    left:-15px;
+    top:-70px;
+    left:-215px;
 }
 
 .program {
-    -webkit-transform: rotate(-8deg);
-    -moz-transform:    rotate(-8deg);
-    -ms-transform:     rotate(-8deg);
-    -o-transform:      rotate(-8deg);
-    transform:         rotate(-8deg);
+    -webkit-transform: rotate(8deg);
+    -moz-transform:    rotate(8deg);
+    -ms-transform:     rotate(8deg);
+    -o-transform:      rotate(8deg);
+    transform:         rotate(8deg);
     position: relative;
-    top:-40px;
-    left:-0px;   
+    top:0px;
+    left:400px;   
 }
 
 .brukere {
@@ -85,20 +85,20 @@
 
 .online {
     position: relative;
-    top:0px;
-    left:750px;   
+    top:350px;
+    left:600px;   
     
 }
 
 .test {
-    -webkit-transform: rotate(5deg);
-    -moz-transform:    rotate(5deg);
-    -ms-transform:     rotate(5deg);
-    -o-transform:      rotate(5deg);
-    transform:         rotate(5deg);
+    -webkit-transform: rotate(-25deg);
+    -moz-transform:    rotate(-25deg);
+    -ms-transform:     rotate(-25deg);
+    -o-transform:      rotate(-25deg);
+    transform:         rotate(-25deg);
     position: relative;
-    top:30px;
-    left:0px;   
+    top:210px;
+    left:120px;   
     
 }
 
@@ -110,7 +110,7 @@
     transform:         rotate(10deg);
     position: relative;
     top:51px;
-    left:-9px;   
+    left:500px;   
 
 }
 .deploy {
@@ -121,6 +121,11 @@
     transform:         rotate(15deg);
     position: relative;
     top:72px;
-    left:-22px;   
-    
+    left:-22px;       
+}
+
+#admin {
+    position:relative;
+    left:120px;
+    top:70px;
 }
